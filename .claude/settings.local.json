@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:pro.maximilien.leclei.net)",
+      "Bash(node generate-pdf-temp.js:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
